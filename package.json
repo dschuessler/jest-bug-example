@@ -2,7 +2,7 @@
   "devDependencies": {
     "@jest-runner/electron": "^2.0.3",
     "@types/jest": "^24.9.1",
-    "electron": "^8.2.5",
+    "electron": "^15.5.5",
     "jest": "^24.9.0",
     "ts-jest": "^25.5.1",
     "tslint": "^6.1.2",
